@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/goat-si/goat/main/assets/prod/black-universal-1024.png" width="120" alt="GOAT logo" />
+  <img src="./goat-logo.png" width="120" alt="GOAT logo" />
 </p>
 
 <h1 align="center">GOAT</h1>
